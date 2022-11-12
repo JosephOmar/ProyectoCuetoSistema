@@ -1,0 +1,12 @@
+C:\ProgramasVisual\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\ProgramasVisual\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\ProgramasVisual\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\ProgramasVisual\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\ProgramasVisual\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb

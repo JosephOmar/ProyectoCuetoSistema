@@ -1,0 +1,22 @@
+C:\ProgramasVisual\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\ProgramasVisual\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\ProgramasVisual\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\ProgramasVisual\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\ProgramasVisual\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\ProgramasVisual\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\ProgramasVisual\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\ProgramasVisual\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\ProgramasVisual\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\ProgramasVisual\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.pdb
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.dll
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaDatos.dll
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaEntidad.dll
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaDatos.pdb
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaEntidad.pdb
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.dll
+G:\Proyectos - Git\ProyectoCueto\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.pdb
